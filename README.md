@@ -2,4 +2,4 @@
 
 Hi there, 
 
-Somehow you ended up here. There'll be much more in some time, but at the moment it looks this way. My page on @lxmlabs's website isn't finished yet too. you'll have to wait a little while if you're interested.
+Somehow you ended up here. There'll be much more in some time, but at the moment it looks this way. My page on [@lxmlabs](https://github.com/lxmlabs)'s website isn't finished yet too. you'll have to wait a little while if you're interested.
